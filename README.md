@@ -1,1 +1,2 @@
-# Logica2
+# Projeto 
+# Para o Trabalho Escolar ensino tecnico
